@@ -1,0 +1,7 @@
+{
+  "name": "particle-tilt-effect",
+  "build": {
+    "libArchive": false
+  },
+  "dependencies": {}
+}
